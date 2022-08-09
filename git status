@@ -1,0 +1,29 @@
+[33mcommit ee6a03fc0d9c627f5c8025da16ddda52e08c4e1e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-16-153.ec2.internal>
+Date:   Tue Aug 9 19:15:50 2022 +0000
+
+     Second Commit
+
+[33mcommit 7d3497018b61ef83d350d86fc9f8de7061059dff[m
+Author: root <root@ip-172-31-16-153.ec2.internal>
+Date:   Wed Jul 27 23:40:10 2022 +0000
+
+    branch1 commit
+
+[33mcommit b466b4ed3d14ea5ff5e9be90b357fe6d12b45080[m
+Author: root <root@ip-172-31-16-153.ec2.internal>
+Date:   Wed Jul 27 23:18:47 2022 +0000
+
+    third commit
+
+[33mcommit aa9e135cffa70ad5895637a0704efbd6b61fe874[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: root <root@ip-172-31-16-153.ec2.internal>
+Date:   Wed Jul 27 22:11:32 2022 +0000
+
+    Second commit
+
+[33mcommit 31508a5e235c0e4ddf5aa709d8f052818bcebdab[m
+Author: root <root@ip-172-31-16-153.ec2.internal>
+Date:   Wed Jul 27 22:07:13 2022 +0000
+
+    first commit

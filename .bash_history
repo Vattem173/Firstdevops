@@ -47,3 +47,11 @@ git commit -m "Second commit" .
 git status
 git log
 sudo -i
+ll
+git branch
+git commit -m "Branch1 Commit" .
+git add .
+git commit -m "branch1 commit" .
+git push -u origin master
+git push -u origin branch
+git push -u origin branch1
